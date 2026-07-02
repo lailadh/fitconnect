@@ -14,7 +14,7 @@ class Salle
         $this->adresse = $adresse;
         $this->ville = $ville;
     }
-
+gggggggggggggggggggg
     public function getIdSalle() { return $this->id_salle; }
     public function getNomSalle() { return $this->nom_salle; }
     public function getAdresse() { return $this->adresse; }
