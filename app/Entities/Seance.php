@@ -36,3 +36,6 @@ class Seance
     public function setIdAdherent($id) { $this->id_adherent = $id; }
     public function setIdSalle($id) { $this->id_salle = $id; }
 }
+
+
+
